@@ -1,0 +1,6 @@
+
+{
+    "recipeName": "{{item.strMeal}}",
+    "instructions": "{{recipeDetails.strInstructions}}"
+}
+  
